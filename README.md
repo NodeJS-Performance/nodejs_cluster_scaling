@@ -2,7 +2,7 @@
 
 https://www.digitalocean.com/community/tutorials/how-to-scale-node-js-applications-with-clustering
 
-## To measure the performance of the index.js and primary.js file.:
+## To measure the performance of the index.js and primary.js file:
 
 Open 2 terminals.
 
