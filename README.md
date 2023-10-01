@@ -16,7 +16,7 @@ or
 node primary.js
 ```
 
-Next, go to your 2nd terminal to use the loadtest package to send requests to the server:
+Next, go to your 2nd terminal to use the `loadtest` package to send requests to the server:
 
 ```sh
 loadtest -n 1200 -c 200 -k http://localhost:3000/heavy
